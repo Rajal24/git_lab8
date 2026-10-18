@@ -1,0 +1,5 @@
+Git and GitHub Practical
+
+This project demonstrates version control using Git and GitHub.
+
+It includes file tracking, commits, branching, merging, and collaboration.
