@@ -5,3 +5,5 @@ This project demonstrates version control using Git and GitHub.
 It includes file tracking, commits, branching, merging, and collaboration.
 
 A new feature was added using the feature-update branch.
+
+This change was made by a collaborator.
